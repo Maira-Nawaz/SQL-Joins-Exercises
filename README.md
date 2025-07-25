@@ -1,7 +1,7 @@
 # SQL-Joins-Exercises
 
 This repository contains a set of SQL practice questions focused on real-world business scenarios.
-The exercises were part of the BI Bootcamp conducted by Ma'am Rabbiya at AI Datayard.
+The exercises were part of the BI Bootcamp conducted at AI Datayard.
 
 Topics covered:
 
